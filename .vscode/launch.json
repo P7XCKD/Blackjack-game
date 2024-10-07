@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Blackjax",
+            "type": "clr",
+            "request": "launch",
+            "program": "${workspaceFolder}/bin/Debug/blackjax.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "preLaunchTask": "build"
+        }
+    ]
+}
